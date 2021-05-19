@@ -4,8 +4,8 @@ import {BaseAppConfig} from '../../app/ITypes'
 
 const prod : BaseAppConfig = {
     baseUrl: {
-        api : 'http://api.assogiocattoli.eu',
-        app: 'http://crm.assogiocattoli.eu/'
+        api : 'http://api.domain.eu',
+        app: 'http://crm.domain.eu/'
     }
 };
 
